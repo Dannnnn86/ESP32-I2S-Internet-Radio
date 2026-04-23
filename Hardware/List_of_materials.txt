@@ -1,0 +1,7 @@
+List of Components or Parts 
+• Microcontroller: ESP32 (30-pin Dev Kit) 
+• Voltage Regulator: LM2596  
+• Display: OLED Display  
+• Audio Amplifier: MAX98357A (I2S Mono Amp) 
+• User Inputs: 4x Momentary Push Buttons (Volume+, Volume-, Channel+, Channel-) 
+• Power Input: 2-pin Terminal Block (for External Power)

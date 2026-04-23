@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# ESP32/Arduino specific
+/build/
+/bin/
+
+# Editor specific
+.vscode/
+.DS_Store
+Thumbs.db
+

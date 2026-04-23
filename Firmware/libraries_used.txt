@@ -1,0 +1,17 @@
+# REQUIRED LIBRARIES FOR ESP32 I2S RADIO
+
+1. ESP32-audioI2S by Wolle (Version 3.0.0+)
+   - Purpose: Handles software MP3 decoding and I2S communication.
+   - GitHub: https://github.com
+
+2. Adafruit SH110X by Adafruit
+   - Purpose: Driver for the SH1106 OLED Display.
+
+3. Adafruit GFX Library by Adafruit
+   - Purpose: Core graphics library for drawing text on the OLED.
+
+4. Built-in ESP32 Libraries (Included in ESP32 Arduino Core):
+   - WiFi.h
+   - WebServer.h
+   - Preferences.h
+   - Wire.h
